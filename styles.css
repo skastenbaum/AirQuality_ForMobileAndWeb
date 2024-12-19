@@ -21,7 +21,7 @@ body {
     min-height: 100vh; /* Full height of the viewport */
     margin: 0 auto;
     width: 100%;
-    background-color: #d2dfe6;
+    background-color: #e6eef2;
     padding: 40px;
     flex-direction: column; /* Stack content vertically */
     max-width: 1200px; /* Limits max width of the container for larger screens */
@@ -29,7 +29,7 @@ body {
 
 /* Headlines */
 .headlines {
-    background-color: #d2dfe6;
+    background-color: #e6eef2;
     text-align: center;
     padding: 0 20px; /* Padding for left and right */
 }
@@ -99,7 +99,7 @@ figcaption {
     text-align: center;
     padding: 5px 60px; /* Same padding */
     margin-top: 5px; /* Reduced top margin */
-    line-height: 1.6; /* Same line-height as the story text */
+    line-height: 1.2; /* Same line-height as the story text */
 }
 
 /* Story Section */
