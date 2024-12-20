@@ -38,7 +38,7 @@ body {
 h1 {
     font-size: 2.5em;
     color: #333;
-    padding: 0px 60px;
+    padding: 0px 50px;
     margin-bottom: 0px; /* Reduced margin-bottom to reduce space between h1 and h2 */
 }
 
@@ -46,7 +46,7 @@ h1 {
 h2 {
     font-size: 1.4em;
     color: #333;
-    padding: 0px 60px; /* Match padding of the image container */
+    padding: 0px 50px; /* Match padding of the image container */
     margin-top: 0; /* Remove margin above h2 to bring it closer to h1 */
     margin-bottom: 20px; /* Optional: Adjust space below h2 if needed */
 }
